@@ -4,7 +4,6 @@ class Sort
 	public static void main(String[] args) {
 		int[] num={6,3,8,2,54,1};
 		int i,j,temp;
-		
 		System.out.println("Before");
 		for(i=1;i<=num.length;i++)
 		{
